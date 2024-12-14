@@ -1,0 +1,8 @@
+prefix=/home/rosnoetic/catkin_ws/devel
+
+Name: particle_filter_project
+Description: Description of particle_filter_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
